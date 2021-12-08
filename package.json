@@ -1,0 +1,20 @@
+{
+  "name": "hexlet-git",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "No code No pain experiment with amend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Berrouz777/Hexlet-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Berrouz777/Hexlet-git/issues"
+  },
+  "homepage": "https://github.com/Berrouz777/Hexlet-git#readme"
+}
