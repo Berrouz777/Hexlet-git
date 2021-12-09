@@ -2,7 +2,7 @@
   "name": "hexlet-git",
   "type": "module",
   "version": "1.0.0",
-  "description": "No code No pain experiment with amend",
+  "description": "Experiment with environment",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Berrouz777/Hexlet-git/issues"
   },
-  "homepage": "https://github.com/Berrouz777/Hexlet-git#readme"
+  "homepage": "https://github.com/Berrouz777/Hexlet-git#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
