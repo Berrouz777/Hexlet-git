@@ -1,2 +1,3 @@
-const minNum = (a, b) => a < b ? a : bж
-console.log(minNum(1, 3))
+import _ from "lodash";
+
+console.log(_.last(['one', 'two', 'three']));
